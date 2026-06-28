@@ -1,3 +1,7 @@
+## Architecture
+
+<img width="1360" height="1560" alt="architecture" src="https://github.com/user-attachments/assets/59723735-de34-4ed1-a8c4-b5d8d8c5c27e" />
+
 # Agentic Chatbot — FastAPI + Streamlit + LangGraph
 
 An AI chat application with a Streamlit frontend and a FastAPI backend. The backend runs a LangGraph ReAct agent that can call Groq or OpenAI models, optionally use Tavily web search as a tool, and logs every exchange to a MySQL database.
